@@ -1,0 +1,20 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Criar tabela caminhoes e usar o método CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon serve.js"
+  },
+  "author": "Talis Lima",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
